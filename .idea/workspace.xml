@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2df6b7d3-f1ab-4209-885a-22d3b5c1f119" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios0_1/Ejercicio_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios0_1/Ejercicio_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios0_1/Ejercicio_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios0_1/Ejercicio_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios0_1/Ejercicio_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios0_1/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled5.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2jdoBlN3ANQ4uneosFTJVg3HOTf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdministradorArchivos.executor": "Run",
+    "Application.Ejercicio4_01.executor": "Run",
+    "Application.Ejercicio_01.executor": "Run",
+    "Application.Ejercicio_04.executor": "Run",
+    "Application.Ejercicio_05.executor": "Run",
+    "Application.UsodeBytesTextos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manana.A2E31\IdeaProjects\untitled5\src\Ejercicios0_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio_05">
+    <configuration name="Ejercicio4_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios0_1.Ejercicio4_01" />
+      <module name="untitled5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios0_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios0_1.Ejercicio_02" />
+      <module name="untitled5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios0_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios0_1.Ejercicio_03" />
+      <module name="untitled5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios0_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios0_1.Ejercicio_04" />
+      <module name="untitled5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios0_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios0_1.Ejercicio_05" />
+      <module name="untitled5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicios0_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio_05" />
+        <item itemvalue="Application.Ejercicio_04" />
+        <item itemvalue="Application.Ejercicio4_01" />
+        <item itemvalue="Application.Ejercicio_03" />
+        <item itemvalue="Application.Ejercicio_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2df6b7d3-f1ab-4209-885a-22d3b5c1f119" name="Changes" comment="" />
+      <created>1721726181880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721726181880</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.bin" />
+  </component>
+</project>
